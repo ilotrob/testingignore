@@ -1,0 +1,61 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.VC.db
+*.log
+*.suo
+.suo
+*.pdb
+*.ilk
+*.tlog
+*.metagen
+*.idb
+
+CMakeCache.txt
+CmakeFiles
+externals/*
+Makefile
+cmake_install.cmake
+.vscode/
+obj
+Debug
+Release
+.vs
+bin
+v14
+Test/MSVC/DotNet/SCPITest/.vs/*
+Test/MSVC/DotNet/SCPITest/obj/
+CMW/boost_1_73_0/*
+
+Test/MSVC/CMW/CMWTest/*
+Test/MSVC/CMW/CMWHelper/*
+Test/MSVC/CMWHelper/CMWHelper/*
+Test/MSVC/CMWWrapper/CMWHelper/*
+Test/MSVC/CMWTest/*.dat
+Test/MSVC/packages
